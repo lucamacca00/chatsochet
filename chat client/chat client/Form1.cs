@@ -223,8 +223,9 @@ namespace chat_client
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //asdjovbsdjivbsdiovbsdibnvsdfi
 
-
+            int a = 0;
             pannello_filtro.Visible = false; //inutile perchè già è scritto nel change della combobox che avviene nelle prossima istruzione (solo per sicurezza)
             filtro.SelectedIndex = 0;
            

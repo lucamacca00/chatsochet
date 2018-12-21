@@ -341,7 +341,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1275, 566);
+            this.ClientSize = new System.Drawing.Size(1293, 566);
             this.Controls.Add(this.seleziona_deseleziona_tutti);
             this.Controls.Add(this.rubrica_connessi);
             this.Controls.Add(this.groupBox2);

@@ -101,3 +101,14 @@ C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.l
 C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
 C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.riscontro.resources
 C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.Cache
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\bin\Debug\chat client.exe.config
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat client.exe
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat client.pdb
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\bin\Debug\chat client.exe
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\bin\Debug\chat client.pdb
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat client.csprojResolveAssemblyReference.cache
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat_client.Form1.resources
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat_client.login.resources
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+I:\luca\indirizzo informatica\GEP\git\PortableGit\test_git\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.Cache
